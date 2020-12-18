@@ -3,4 +3,5 @@ Functional recipes in C# using Louthy's library: https://github.com/louthy/langu
 
 TIPY
 1. Mám IEnumerable objektů. Chci na každý z nich aplikovat operaci (nemusí být lambda, třeba statickou metodu, nebo extension funkci) a vrátit IEnumerable nových objektů. Který operátor je nejvhodnější?
+Poznámka: LinQ má na tohle operátor Select. Porovnej operatory z LaYumba a Louthy's se Select.
 
